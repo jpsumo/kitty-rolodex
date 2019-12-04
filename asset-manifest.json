@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kitty-rolodex/static/css/main.0b9c56cc.chunk.css",
+    "main.js": "/kitty-rolodex/static/js/main.603880ee.chunk.js",
+    "main.js.map": "/kitty-rolodex/static/js/main.603880ee.chunk.js.map",
+    "runtime-main.js": "/kitty-rolodex/static/js/runtime-main.cacf25a6.js",
+    "runtime-main.js.map": "/kitty-rolodex/static/js/runtime-main.cacf25a6.js.map",
+    "static/js/2.f833121f.chunk.js": "/kitty-rolodex/static/js/2.f833121f.chunk.js",
+    "static/js/2.f833121f.chunk.js.map": "/kitty-rolodex/static/js/2.f833121f.chunk.js.map",
+    "index.html": "/kitty-rolodex/index.html",
+    "precache-manifest.1a9625e6a66b7c5ff0b6307857114c12.js": "/kitty-rolodex/precache-manifest.1a9625e6a66b7c5ff0b6307857114c12.js",
+    "service-worker.js": "/kitty-rolodex/service-worker.js",
+    "static/css/main.0b9c56cc.chunk.css.map": "/kitty-rolodex/static/css/main.0b9c56cc.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cacf25a6.js",
+    "static/js/2.f833121f.chunk.js",
+    "static/css/main.0b9c56cc.chunk.css",
+    "static/js/main.603880ee.chunk.js"
+  ]
+}
